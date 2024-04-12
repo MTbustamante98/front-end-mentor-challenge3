@@ -55,7 +55,7 @@ h1 {
 .div-img {
   box-sizing: border-box;
   height: 40%;
-  background: url("/assets/images/illustration-article.svg") no-repeat center center;
+  background: url("../assets/images/illustration-article.svg") no-repeat center center;
   margin: 10px;
   border-radius: 10px;
 }
@@ -135,7 +135,7 @@ span {
   .div-img {
     box-sizing: border-box;
     height: 40%;
-    background: url("/assets/images/illustration-article.svg") no-repeat center center;
+    background: url("../assets/images/illustration-article.svg") no-repeat center center;
     margin: 10px;
     border-radius: 10px;
   }
